@@ -187,8 +187,8 @@ This project is informed and inspired by prior research in clinical trial predic
 - and **ALL** open sourcers  who helped me to build this knowledge.    
 
 
-[![Attribution Required](https://img.shields.io/badge/attribution-required-blue)]
-(#-attribution--usage-notice)
+![Attribution Required](https://img.shields.io/badge/attribution-required-blue)
+
 This code is open for academic and non-commercial exploration. Please acknowledge or cite the original author if using or adapting it. Do not present this work as your own without appropriate credit.
 
 
